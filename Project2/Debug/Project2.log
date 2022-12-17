@@ -1,0 +1,5 @@
+﻿  Źródło.c
+C:\Users\zeina\Desktop\Zak\studia\sem III\Infa\Project2\Project2\Źródło.c(242,18): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\zeina\Desktop\Zak\studia\sem III\Infa\Project2\Project2\Źródło.c(438,30): warning C4047: "funkcja": "Obraz *" różni się w poziomach operatorów pośrednich od "int"
+C:\Users\zeina\Desktop\Zak\studia\sem III\Infa\Project2\Project2\Źródło.c(438,17): warning C4024: "gaussFilter": różne typy dla formalnego i rzeczywistego parametru 1
+  Project2.vcxproj -> C:\Users\zeina\Desktop\Zak\studia\sem III\Infa\Project2\Debug\Project2.exe
